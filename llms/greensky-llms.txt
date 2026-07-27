@@ -1,0 +1,27 @@
+# GreenSky
+
+> GreenSky is a financial-technology company that powers point-of-sale consumer financing. Through a network of bank partners and enrolled merchants it lets consumers apply for and use installment loans and revolving credit at the point of sale, concentrated in home-improvement and elective-healthcare financing. GreenSky Servicing, LLC (NMLS #1416362) services the loan program. GreenSky is a consumer/merchant fintech with no public developer API surface; this profile is maintained by the API Evangelist network.
+
+## Company
+- [Website](https://www.greensky.com/): GreenSky home
+- [About Us](https://www.greensky.com/about-us/): Who we are
+- [Home Improvement Financing](https://www.greensky.com/home-improvement/): Home-improvement lending program
+- [Healthcare Patient Financing](https://www.greensky.com/consumer-healthcare/): Elective-healthcare financing program
+
+## For Merchants
+- [Merchant Portal](https://portal.greensky.com/): Merchant login / servicing portal
+- [Become a Merchant](https://merchant-enrollment.greensky.com/): Merchant enrollment / sign-up
+- [Merchant Resource Center](https://resources.greenskycredit.com/): Merchant resources and FAQs
+
+## For Consumers
+- [Customer Portal](https://www.greenskyonline.com/greensky/home): Manage account / make a payment
+- [Contact / Support](https://www.greensky.com/contact/): Consumer and merchant support
+
+## Legal & Security
+- [Privacy Policy](https://www.greensky.com/privacy-policy/)
+- [Website Terms of Use](https://www.greensky.com/terms/website_terms_of_use/)
+- [Responsible Disclosure / Security](https://www.greensky.com/security): Report vulnerabilities to reportvulnerabilities@greensky.com
+- [State Licenses](https://www.greensky.com/state-licenses/)
+
+## Notes
+- No public developer portal, API reference, OpenAPI, SDK, CLI, or MCP server was found for GreenSky as of 2026-07-19.

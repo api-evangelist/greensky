@@ -1,8 +1,31 @@
 aid: greensky
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/greensky.png
 name: GreenSky
-description: 'GreenSky is a company surfaced as a portfolio company of iconiq-capital, qed-investors and
-  added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  GreenSky is a financial-technology company that powers point-of-sale consumer
+  financing. Through a network of federally insured bank partners and enrolled
+  merchants, GreenSky enables consumers to apply for and use installment loans
+  and revolving credit lines at the point of sale, with programs concentrated in
+  home-improvement and elective-healthcare financing. GreenSky Servicing, LLC
+  (NMLS #1416362) originates and services the loan program on behalf of its
+  lending partners. Merchants enroll to offer financing to their customers and
+  manage applications through the GreenSky merchant portal, while consumers
+  manage accounts and payments through the customer portal. Surfaced as a
+  portfolio company of ICONIQ Capital and QED Investors and added to the API
+  Evangelist network. GreenSky is a consumer/merchant fintech with no public
+  developer API surface; this profile is enriched with identity, link, and
+  security metadata only.
 url: https://raw.githubusercontent.com/api-evangelist/greensky/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,10 +36,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Fintech
+- Consumer Financing
+- Point of Sale Lending
+- Home Improvement
+- Healthcare Financing
+- Loan Servicing
+- Merchant Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +55,30 @@ maintainers:
 common:
 - type: Website
   url: https://www.greensky.com/
+- type: About
+  url: https://www.greensky.com/about-us/
+- type: Support
+  url: https://www.greensky.com/contact/
+- type: HelpCenter
+  url: https://resources.greenskycredit.com/
+- type: Login
+  url: https://portal.greensky.com/
+- type: SignUp
+  url: https://merchant-enrollment.greensky.com/
+- type: PrivacyPolicy
+  url: https://www.greensky.com/privacy-policy/
+- type: TermsOfService
+  url: https://www.greensky.com/terms/website_terms_of_use/
+- type: Security
+  url: https://www.greensky.com/security
+- type: VulnerabilityDisclosure
+  url: security/greensky-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/greensky-domain-security.yml
+- type: LLMsTxt
+  url: llms/greensky-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
