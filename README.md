@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GreenSky is a company surfaced as a portfolio company of iconiq-capital, qed-investors and added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.
+GreenSky is a financial-technology company that powers point-of-sale consumer financing. Through a network of federally insured bank partners and enrolled merchants, GreenSky enables consumers to apply for and use installment loans and revolving credit lines at the point of sale, with programs concentrated in home-improvement and elective-healthcare financing. GreenSky Servicing, LLC (NMLS #1416362) originates and services the loan program on behalf of its lending partners. Merchants enroll to offer financing to their customers and manage applications through the GreenSky merchant portal, while consumers manage accounts and payments through the customer portal. Surfaced as a portfolio company of ICONIQ Capital and QED Investors and added to the API Evangelist network. GreenSky is a consumer/merchant fintech with no public developer API surface; this profile is enriched with identity, link, and security metadata only.
 
-Backed by: iconiq-capital, qed-investors — https://www.greensky.com/
+**Areas:** Company · Fintech · Consumer Financing · Point of Sale Lending · Home Improvement · healthcare-financing · Loan Servicing · Merchant Services
+
+## GreenSky on APIs.io
+
+Everything profiled for GreenSky is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/greensky/](https://apis.io/providers/greensky/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Greensky Domain Security](https://apis.io/security/greensky/greensky-domain-security/)
+- [Greensky Vulnerability Disclosure](https://apis.io/security/greensky/greensky-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.greensky.com/)
+- [Sign up](https://merchant-enrollment.greensky.com/)
+- [Support](https://www.greensky.com/contact/)
+- [Blog](https://www.greensky.com/press/)
+- [Security](https://www.greensky.com/security)
+- [Terms of service](https://www.greensky.com/terms/website_terms_of_use/)
+- [Privacy policy](https://www.greensky.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 14.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.6** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/greensky/](https://apis.io/providers/greensky/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GreenSky: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/greensky/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
